@@ -1,0 +1,148 @@
+header h1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 37px;
+    color: #3A400C;
+    text-align: center;
+    padding-top: 30px;
+    margin-left:8%;
+    margin-right:8%;
+}
+
+body{
+    background-color: #c9e3eb;
+    border-left: 180px solid #E68C50;
+    border-right: 180px solid #E68C50;
+    margin:0;
+}
+
+nav{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: #047F8C;
+    text-align: center;
+    word-spacing: 200px;
+    padding-top: 20px;
+    margin-left:4%;
+    margin-right:4%;
+}
+
+#etc{
+    text-decoration: none;
+    color: #3A400C;
+}
+
+#etctwo{
+    color:#047F8C;
+    text-decoration: none;
+}
+
+#etcthree{
+    text-decoration: none;
+    color:#1c5435;
+}
+
+.wrap{
+    margin-left:4%;
+    margin-right:4%;
+}
+
+
+h2{
+    font-family: 'lato';
+    text-align: left;
+    margin-left:4%;
+    font-weight: 700;
+    font-size: 22.5px;
+}
+
+aside h3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+    text-align: left;
+    margin-left:4%;
+    color: #047F8C;
+}
+
+aside ul{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    margin-left:4%;
+    color: #3A400C;
+}
+
+
+img{
+    display:block;
+  width: 90%;
+  height: auto;
+  margin-left: 4%;
+  max-width:93%;
+}
+
+aside img{
+    display: inline-block;
+    height: auto;
+    width: 30%;
+    margin:0%;
+}
+
+#ladies{
+    margin-left:4%;
+}
+
+article h3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 4%;
+    color: #047F8C;
+}
+
+aside p{
+    font-family: 'Lato';
+    font-size: 15px;
+    font-weight:400;
+    margin-left:4%;
+    margin-right: 6%;
+    text-align: justify;
+}
+
+article p{
+    font-family: 'Lato';
+    font-size: 15px;
+    font-weight:400;
+    margin-left:4%;
+    margin-right: 6%;
+    text-align: left;
+    text-align: justify;
+}
+
+footer{
+    background-color: #04ADBF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.social-links{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    word-spacing: 30px;
+    color:#1c5435;
+}
+
+#copyright{
+    text-align: center;
+    font-family: 'lato';
+    font-size: 15px;
+    font-weight: 400;
+    color:#1c5435;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
